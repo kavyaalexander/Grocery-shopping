@@ -1,0 +1,76 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            background-image: url("./grocertyu.jpg");
+            background-position: top;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        td {
+            text-align: center;
+            padding: 15px;
+            color: whitesmoke;
+            border: 1px solid rgb(228, 29, 29);
+            border-collapse: collapse;
+            background-color: #2d5ce7;
+        }
+        
+        th {
+            text-align: center;
+            width: 36.1cm;
+            padding: 18px;
+            font-weight: bold;
+            color: rgb(20, 18, 9);
+            background-color: #f81010;
+        }
+        
+        .card {
+            border: 1px solid rgb(24, 12, 12);
+            border-radius: 25%;
+            margin-left: 5cm;
+            margin-right: 5cm;
+            margin-top: 1cm;
+            margin-bottom: 1cm;
+            text-align: center;
+            animation-name: key;
+            animation-duration: 12s;
+            animation-iteration-count: infinite;
+        }
+        
+        @keyframes key {
+            from {
+                background-color: rgba(0, 206, 209, 0.308);
+            }
+            to {
+                background-color: rgb(55, 221, 33);
+            }
+            50% {
+                color: rgb(206, 13, 109);
+            }
+        }
+        
+        #btn {
+            width: 2cm;
+            height: 0.9cm;
+            border: 1.5px solid rgb(24, 12, 12);
+            border-radius: 15%;
+            animation-name: butn;
+            animation-duration: 12s;
+            animation-iteration-count: infinite;
+        }
+        
+        @keyframes butn {
+            from {
+                background-color: firebrick;
+            }
+            to {
+                background-color: rgb(204, 8, 41);
+            }
+            50% {
+                color: rgb(13, 170, 26);
+            }
+        }

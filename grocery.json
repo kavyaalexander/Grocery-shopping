@@ -1,0 +1,76 @@
+{
+    "list": [{
+            "sino": "1",
+            "name": "Rice",
+            "quantity": "5",
+            "unit": "Kilogram",
+            "department": "Food Item",
+            "notes": "Pavizham Kerala Matta Rice"
+        }, {
+            "sino": "2",
+            "name": "Atta-Whole Wheat",
+            "quantity": "2",
+            "unit": "Kilogram",
+            "department": "Food Item",
+            "notes": "Aashirvaad Atta"
+        }, {
+            "sino": "3",
+            "name": "Sugar",
+            "quantity": "1",
+            "unit": "Kilogram",
+            "department": "Food Item",
+            "notes": "White Sugar"
+        },
+        {
+            "sino": "4",
+            "name": "Coconut Oil",
+            "quantity": "1",
+            "unit": "Liter",
+            "department": "Food Item",
+            "notes": "Kinsflok"
+        },
+        {
+            "sino": "5",
+            "name": "Coffee Powder",
+            "quantity": "100",
+            "unit": "Gram",
+            "department": "Caffeinated Drink",
+            "notes": "Nescafe Classic Instant Coffee"
+        }, {
+            "sino": "6",
+            "name": "Orange",
+            "quantity": "1",
+            "unit": "Kilogram",
+            "department": "Fruit",
+            "notes": "Fresh"
+        }, {
+            "sino": "7",
+            "name": "Biscuit",
+            "quantity": "1",
+            "unit": "Packet",
+            "department": "Snacks & Sweets",
+            "notes": "Good Day"
+        }, {
+            "sino": "8",
+            "name": "Coriander Powder",
+            "quantity": "100",
+            "unit": "Gram",
+            "department": "Food Item",
+            "notes": "Eastern"
+        }, {
+            "sino": "9",
+            "name": "Detergent",
+            "quantity": "500",
+            "unit": "Gram",
+            "department": "Cleaning & Household",
+            "notes": "Surf excel"
+        }, {
+            "sino": "10",
+            "name": "Soap",
+            "quantity": "1",
+            "unit": "Number",
+            "department": "Beauty & Hygiene",
+            "notes": "Pears"
+        }
+    ]
+}
